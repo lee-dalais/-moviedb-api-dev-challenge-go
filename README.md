@@ -1,1 +1,1 @@
-# -moviedb-api-dev-challenge-go
+# moviedb-api-dev-challenge-go
